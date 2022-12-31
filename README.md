@@ -1,4 +1,4 @@
-## U-GAT-IT &mdash; Official PyTorch Implementation
+## U-GAT-IT &mdash; Official PyTorch Implementation(pycharm实现源码在Release中，可直接下载或者下载jupyter notebook文件在colab and kaggle)
 ### : Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation
 
 <div align="center">
@@ -47,28 +47,15 @@ The results of the paper came from the **Tensorflow code**
 ```
 
 ## Architecture
-<div align="center">
-  <img src = './assets/generator.png' width = '785px' height = '500px'>
-</div>
-
----
-
-<div align="center">
-  <img src = './assets/discriminator.png' width = '785px' height = '450px'>
-</div>
+![generator](https://user-images.githubusercontent.com/107866293/210135428-a7a7a8fd-7a2c-4995-aaa3-b8f6396a3433.png)
+![discriminator](https://user-images.githubusercontent.com/107866293/210135434-c1a99e8e-3739-4569-864f-34a99d00d825.png)
 
 ## Results
 ### Ablation study
-<div align="center">
-  <img src = './assets/ablation.png' width = '438px' height = '346px'>
-</div>
+<img width="438" alt="ablation" src="https://user-images.githubusercontent.com/107866293/210135443-f329dd38-3da9-40e8-a1ca-6d0b856f687f.png">
 
 ### User study
-<div align="center">
-  <img src = './assets/user_study.png' width = '738px' height = '187px'>
-</div>
 
-### Comparison
-<div align="center">
-  <img src = './assets/kid.png' width = '787px' height = '344px'>
-</div>
+<img width="738" alt="user_study" src="https://user-images.githubusercontent.com/107866293/210135439-9f5281b4-c50a-44e1-ba38-a9c0b96c33ed.png">
+
+
